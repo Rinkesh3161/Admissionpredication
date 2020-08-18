@@ -1,4 +1,4 @@
-# Admisiion Prediction: 
+# Admission Prediction: 
 
 ## Table of Content
   * [Introducation](#introducation)
